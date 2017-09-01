@@ -90,3 +90,5 @@ let g:airline_detect_whitespace=0
 let g:tmuxline_preset='nightly_fox'
 
 let g:ycm_global_ycm_extra_conf ='~/work/.ycm_extra_conf.py'
+
+set switchbuf=useopen,usetab,newtab
